@@ -1,7 +1,7 @@
 export function History() {
   return (
     <>
-      <h1>Hehehe</h1>
+      <h1>History</h1>
     </>
   )
 }
